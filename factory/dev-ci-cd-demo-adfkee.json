@@ -1,0 +1,9 @@
+{
+	"name": "dev-ci-cd-demo-adfkee",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b444167-be5e-43f4-9551-fe35fe0d3230",
+		"tenantId": "4e302b9d-e9e8-43b4-a142-4db5a4357c5d"
+	}
+}
